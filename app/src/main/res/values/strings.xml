@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Level1Task1</string>
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+    <string name="title"> Mad Level 1 Task 1</string>
+    <string name="equals">Equals </string>
+    <string name="last">Last Throw:</string>
+    <string name="correct">correct</string>
+    <string name="incorrect">incorrect</string>
+</resources>
